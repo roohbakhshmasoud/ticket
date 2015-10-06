@@ -1,0 +1,20 @@
+{
+    "name": "mabna/ticket",
+    "description": "this is a ticket for a yummy project",
+    "license": "mabna",
+    "authors": [
+        {
+            "name": "masoud rooohbakhsh",
+            "email": "roohbakhsh.masoud@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+	"autoload": 
+	{
+ 		"psr-4": {
+            "Ticket\\": "."
+        }
+	}
+}
