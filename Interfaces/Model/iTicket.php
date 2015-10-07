@@ -6,7 +6,7 @@
  * Time: 2:13 PM
  */
 
-namespace Ticket\Model;
+namespace Ticket\Interfaces\Model;
 
 
 use Ticket\Enums\ePriority;

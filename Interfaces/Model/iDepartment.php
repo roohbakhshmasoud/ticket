@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Ticket\Model;
+namespace Ticket\Interfaces\Model;
 
 
 interface iDepartment

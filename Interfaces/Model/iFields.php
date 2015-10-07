@@ -6,7 +6,7 @@
  * Time: 4:16 PM
  */
 
-namespace Ticket\Model;
+namespace Ticket\Interfaces\Model;
 
 
 interface iFields
